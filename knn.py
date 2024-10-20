@@ -120,6 +120,8 @@ for index, score in enumerate(scores):
         iy_home, iy_away = int(iy_home), int(iy_away)
     except Exception as e:
         continue
+
+    
     if home > away:
         home_win += 1
     if home == away:

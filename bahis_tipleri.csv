@@ -1,0 +1,241 @@
+Bahis Tipi,Tercih
+Maç Sonucu,MS1
+Maç Sonucu,MS0
+Maç Sonucu,MS2
+Toplam Gol Alt / Üst,0.5 ALT
+Toplam Gol Alt / Üst,0.5 ÜST
+Toplam Gol Alt / Üst,1.5 ALT
+Toplam Gol Alt / Üst,1.5 ÜST
+Toplam Gol Alt / Üst,2.5 ALT
+Toplam Gol Alt / Üst,2.5 ÜST
+Toplam Gol Alt / Üst,3.5 ALT
+Toplam Gol Alt / Üst,3.5 ÜST
+İlk Yarı / Maç Sonucu,1 / 1
+İlk Yarı / Maç Sonucu,1 / 0
+İlk Yarı / Maç Sonucu,1 / 2
+İlk Yarı / Maç Sonucu,0 / 1
+İlk Yarı / Maç Sonucu,0 / 0
+İlk Yarı / Maç Sonucu,0 / 2
+İlk Yarı / Maç Sonucu,2 / 1
+İlk Yarı / Maç Sonucu,2 / 0
+İlk Yarı / Maç Sonucu,2 / 2
+Karşılıklı Gol,VAR
+Karşılıklı Gol,YOK
+İlk Yarı Alt / Üst,0.5 ALT
+İlk Yarı Alt / Üst,0.5 ÜST
+İlk Yarı Alt / Üst,1.5 ALT
+İlk Yarı Alt / Üst,1.5 ÜST
+İlk Yarı Alt / Üst,2.5 ALT
+İlk Yarı Alt / Üst,2.5 ÜST
+İlk Yarı Sonucu,1
+İlk Yarı Sonucu,0
+İlk Yarı Sonucu,2
+Maç Sonucu ve Alt / Üst 1.5,1 ve 1.5 Alt
+Maç Sonucu ve Alt / Üst 1.5,0 ve 1.5 Alt
+Maç Sonucu ve Alt / Üst 1.5,2 ve 1.5 Alt
+Maç Sonucu ve Alt / Üst 1.5,1 ve 1.5 Üst
+Maç Sonucu ve Alt / Üst 1.5,0 ve 1.5 Üst
+Maç Sonucu ve Alt / Üst 1.5,2 ve 1.5 Üst
+Maç Sonucu ve Alt / Üst 2.5,1 ve 2.5 Alt
+Maç Sonucu ve Alt / Üst 2.5,0 ve 2.5 Alt
+Maç Sonucu ve Alt / Üst 2.5,2 ve 2.5 Alt
+Maç Sonucu ve Alt / Üst 2.5,1 ve 2.5 Üst
+Maç Sonucu ve Alt / Üst 2.5,0 ve 2.5 Üst
+Maç Sonucu ve Alt / Üst 2.5,2 ve 1.5 Üst
+Maç Sonucu ve Alt / Üst 3.5,1 ve 3.5 Alt
+Maç Sonucu ve Alt / Üst 3.5,0 ve 3.5 Alt
+Maç Sonucu ve Alt / Üst 3.5,2 ve 3.5 Alt
+Maç Sonucu ve Alt / Üst 3.5,1 ve 3.5 Üst
+Maç Sonucu ve Alt / Üst 3.5,0 ve 3.5 Üst
+Maç Sonucu ve Alt / Üst 3.5,2 ve 3.5 Üst
+Maç Sonucu ve Alt / Üst 4.5,1 ve 4.5 Alt
+Maç Sonucu ve Alt / Üst 4.5,0 ve 4.5 Alt
+Maç Sonucu ve Alt / Üst 4.5,2 ve 4.5 Alt
+Maç Sonucu ve Alt / Üst 4.5,1 ve 4.5 Üst
+Maç Sonucu ve Alt / Üst 4.5,0 ve 4.5 Üst
+Maç Sonucu ve Alt / Üst 4.5,2 ve 4.5 Üst
+Çifte Şans,1 ve 0
+Çifte Şans,1 ve 2
+Çifte Şans,0 ve 2
+Ev Sahibi Alt / Üst,0.5 Alt
+Ev Sahibi Alt / Üst,0.5 Üst
+Ev Sahibi Alt / Üst,1.5 Alt
+Ev Sahibi Alt / Üst,1.5 Üst
+Ev Sahibi Alt / Üst,2.5 Alt
+Ev Sahibi Alt / Üst,2.5 Üst
+Deplasman Alt / Üst,0.5 Alt
+Deplasman Alt / Üst,0.5 Üst
+Deplasman Alt / Üst,1.5 Alt
+Deplasman Alt / Üst,1.5 Üst
+Deplasman Alt / Üst,2.5 Alt
+Deplasman Alt / Üst,2.5 Üst
+Handikaplı Maç Sonucu,1 (0:1)
+Handikaplı Maç Sonucu,0 (0:1)
+Handikaplı Maç Sonucu,2 (0:1)
+Handikaplı Maç Sonucu,1 (1:0)
+Handikaplı Maç Sonucu,0 (1:0)
+Handikaplı Maç Sonucu,2 (1:0)
+Handikaplı Maç Sonucu,1 (2:0)
+Handikaplı Maç Sonucu,0 (2:0)
+Handikaplı Maç Sonucu,2 (2:0)
+Toplam Gol,0-1 gol
+Toplam Gol,2-3 gol
+Toplam Gol,4-5 gol
+Toplam Gol,6+ gol
+Hangi Yarıda Daha Çok Gol Olur,1
+Hangi Yarıda Daha Çok Gol Olur,Eşit
+Hangi Yarıda Daha Çok Gol Olur,2
+Ev Sahibi Takım Hangi Yarıda Daha Çok Gol Atar,1
+Ev Sahibi Takım Hangi Yarıda Daha Çok Gol Atar,Eşit
+Ev Sahibi Takım Hangi Yarıda Daha Çok Gol Atar,2
+Deplasman Takım Hangi Yarıda Daha Çok Gol Atar,1
+Deplasman Takım Hangi Yarıda Daha Çok Gol Atar,Eşit
+Deplasman Takım Hangi Yarıda Daha Çok Gol Atar,2
+Ev Sahibi Takım Gol Yemeden Kazanır mı?,Evet
+Ev Sahibi Takım Gol Yemeden Kazanır mı?,Hayır
+Deplasman Takım Gol Yemeden Kazanır mı?,Evet
+Deplasman Takım Gol Yemeden Kazanır mı?,Hayır
+Ev Sahibi Takım Her İki Yarıyı da Kazanır mı,Evet
+Ev Sahibi Takım Her İki Yarıyı da Kazanır mı,Hayır
+Deplasman Takımı Her İki Yarıyı da Kazanır mı,Evet
+Deplasman Takımı Her İki Yarıyı da Kazanır mı,Hayır
+İlk Yarı Çifte Şans,1 ve 0
+İlk Yarı Çifte Şans,1 ve 2
+İlk Yarı Çifte Şans,0 ve 2
+Hangi Takım Kaç Farkla Kazanır,Ev 3+
+Hangi Takım Kaç Farkla Kazanır,Ev 2
+Hangi Takım Kaç Farkla Kazanır,Ev 1
+Hangi Takım Kaç Farkla Kazanır,Dep 1
+Hangi Takım Kaç Farkla Kazanır,Dep 2
+Hangi Takım Kaç Farkla Kazanır,Dep 3+
+Hangi Takım Kaç Farkla Kazanır,0
+İkinci Yarı Sonucu,1
+İkinci Yarı Sonucu,0
+İkinci Yarı Sonucu,2
+Tek / Çift,Tek
+Tek / Çift,Çift
+Maç Skoru,1 – 0
+Maç Skoru,2 – 0
+Maç Skoru,2 – 1
+Maç Skoru,3 – 0
+Maç Skoru,3 – 1
+Maç Skoru,3 – 2
+Maç Skoru,4 – 0
+Maç Skoru,4 – 1
+Maç Skoru,4 – 2
+Maç Skoru,5 – 0
+Maç Skoru,5 – 1
+Maç Skoru,6 – 0
+Maç Skoru,0 – 0
+Maç Skoru,1 – 1
+Maç Skoru,2 – 2
+Maç Skoru,3 – 3
+Maç Skoru,0 – 1
+Maç Skoru,0 – 2
+Maç Skoru,1 – 2
+Maç Skoru,0 – 3
+Maç Skoru,1 – 3
+Maç Skoru,2 – 3
+Maç Skoru,0 – 4
+Maç Skoru,1 – 4
+Maç Skoru,2 – 4
+Maç Skoru,0 – 5
+Maç Skoru,1 – 5
+Maç Skoru,0 – 6
+Maç Skoru,Diğer
+Maç Sonucu ve Karşılıklı Gol,1 ve Var
+Maç Sonucu ve Karşılıklı Gol,1 ve Yok
+Maç Sonucu ve Karşılıklı Gol,0 ve Var
+Maç Sonucu ve Karşılıklı Gol,0 ve Yok
+Maç Sonucu ve Karşılıklı Gol,2 ve Var
+Maç Sonucu ve Karşılıklı Gol,2 ve Yok
+İlk Yarı Sonucu ve İlk Yarı Karşılıklı Gol,1 ve Var
+İlk Yarı Sonucu ve İlk Yarı Karşılıklı Gol,1 ve Yok
+İlk Yarı Sonucu ve İlk Yarı Karşılıklı Gol,0 ve Var
+İlk Yarı Sonucu ve İlk Yarı Karşılıklı Gol,0 ve Yok
+İlk Yarı Sonucu ve İlk Yarı Karşılıklı Gol,2 ve Var
+İlk Yarı Sonucu ve İlk Yarı Karşılıklı Gol,2 ve Yok
+Altı/Üstü ve Karşılıklı Gol,Alt ve Var 2.5
+Altı/Üstü ve Karşılıklı Gol,Üst ve Var 2.5
+Altı/Üstü ve Karşılıklı Gol,Alt ve Yok 2.5
+Altı/Üstü ve Karşılıklı Gol,Üst ve Yok 2.5
+İlk Yarı Skoru,0 – 0
+İlk Yarı Skoru,1 – 1
+İlk Yarı Skoru,2 – 2
+İlk Yarı Skoru,1 – 0
+İlk Yarı Skoru,2 – 0
+İlk Yarı Skoru,2 – 1
+İlk Yarı Skoru,0 – 1
+İlk Yarı Skoru,0 – 2
+İlk Yarı Skoru,1 – 2
+İlk Yarı Skoru,Diğer
+İY/MS Skorları,0 – 0 / 0 – 0
+İY/MS Skorları,0 – 0 / 0 – 1
+İY/MS Skorları,0 – 0 / 0 – 2
+İY/MS Skorları,0 – 0 / 0 – 3
+İY/MS Skorları,0 – 0 / 1 – 0
+İY/MS Skorları,0 – 0 / 1 – 1
+İY/MS Skorları,0 – 0 / 1 – 2
+İY/MS Skorları,0 – 0 / 2 – 0
+İY/MS Skorları,0 – 0 / 2 – 1
+İY/MS Skorları,0 – 0 / 3 – 0
+İY/MS Skorları,0 – 0 / 4+
+İY/MS Skorları,1 – 0 / 1 – 0
+İY/MS Skorları,1 – 0 / 1 – 1
+İY/MS Skorları,1 – 0 / 1 – 2
+İY/MS Skorları,1 – 0 / 2 – 0
+İY/MS Skorları,1 – 0 / 2 – 1
+İY/MS Skorları,1 – 0 / 3 – 0
+İY/MS Skorları,1 – 0 / 4+
+İY/MS Skorları,0 – 1 / 0 – 1
+İY/MS Skorları,0 – 1 / 0 – 2
+İY/MS Skorları,0 – 1 / 0 – 3
+İY/MS Skorları,0 – 1 / 1 – 1
+İY/MS Skorları,0 – 1 / 1 – 2
+İY/MS Skorları,0 – 1 / 2 – 1
+İY/MS Skorları,0 – 1 / 4+
+İY/MS Skorları,2 – 0 / 2 – 0
+İY/MS Skorları,2 – 0 / 2 – 1
+İY/MS Skorları,2 – 0 / 3 – 0
+İY/MS Skorları,2 – 0 / 4+
+İY/MS Skorları,1 – 1 / 1 – 1
+İY/MS Skorları,1 – 1 / 1 – 2
+İY/MS Skorları,1 – 1 / 2 – 1
+İY/MS Skorları,1 – 1 / 4+
+İY/MS Skorları,0 – 2 / 0 – 2
+İY/MS Skorları,0 – 2 / 0 – 3
+İY/MS Skorları,0 – 2 / 1 – 2
+İY/MS Skorları,0 – 2 / 4+
+İY/MS Skorları,3 – 0 / 3 – 0
+İY/MS Skorları,3 – 0 / 4+
+İY/MS Skorları,2 – 1 / 2 – 1
+İY/MS Skorları,2 – 1 / 4+
+İY/MS Skorları,1 – 2 / 1 – 2
+İY/MS Skorları,1 – 2 / 4+
+İY/MS Skorları,0 – 3 / 0 – 3
+İY/MS Skorları,0 – 3 / 4+
+İY/MS Skorları,4+ / 4+
+İlk Yarı Tek/Çift,Tek
+İlk Yarı Tek/Çift,Çift
+İlk Yarı Karşılıklı Gol Var,Var
+İlk Yarı Karşılıklı Gol Var,Yok
+Ev Sahibi İlk Yarı Altı/Üstü,Alt 0.5
+Ev Sahibi İlk Yarı Altı/Üstü,Üst 0.5
+Deplasman İlk Yarı Altı/Üstü,Alt 0.5
+Deplasman İlk Yarı Altı/Üstü,Üst 0.5
+İlk Yarı Sonucu ve İlk Yarı Altı/Üstü,1 ve Alt 1.5
+İlk Yarı Sonucu ve İlk Yarı Altı/Üstü,0 ve Alt 1.5
+İlk Yarı Sonucu ve İlk Yarı Altı/Üstü,2 ve Alt 1.5
+İlk Yarı Sonucu ve İlk Yarı Altı/Üstü,1 ve Üst 1.5
+İlk Yarı Sonucu ve İlk Yarı Altı/Üstü,0 ve Üst 1.5
+İlk Yarı Sonucu ve İlk Yarı Altı/Üstü,2 ve Üst 1.5
+Ev Sahibi Yarı Kazanır,Evet
+Ev Sahibi Yarı Kazanır,Hayır
+Deplasman Yarı Kazanır,Evet
+Deplasman Yarı Kazanır,Hayır
+İki Yarı da Alt 1.5,Evet
+İki Yarı da Alt 1.5,Hayır
+İki Yarı da Üst 1.5,Evet
+İki Yarı da Üst 1.5,Hayır
+İkinci Yarı Karşılıklı Gol,Evet
+İkinci Yarı Karşılıklı Gol,Hayır
