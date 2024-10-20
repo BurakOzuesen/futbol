@@ -10,6 +10,10 @@ Toplam Gol Alt / Üst,2.5 ALT
 Toplam Gol Alt / Üst,2.5 ÜST
 Toplam Gol Alt / Üst,3.5 ALT
 Toplam Gol Alt / Üst,3.5 ÜST
+Toplam Gol Alt / Üst,4.5 ALT
+Toplam Gol Alt / Üst,4.5 ÜST
+Toplam Gol Alt / Üst,5.5 ALT
+Toplam Gol Alt / Üst,5.5 ÜST
 İlk Yarı / Maç Sonucu,1 / 1
 İlk Yarı / Maç Sonucu,1 / 0
 İlk Yarı / Maç Sonucu,1 / 2
@@ -78,6 +82,9 @@ Handikaplı Maç Sonucu,2 (1:0)
 Handikaplı Maç Sonucu,1 (2:0)
 Handikaplı Maç Sonucu,0 (2:0)
 Handikaplı Maç Sonucu,2 (2:0)
+Handikaplı Maç Sonucu,1 (0:2)
+Handikaplı Maç Sonucu,0 (0:2)
+Handikaplı Maç Sonucu,2 (0:2)
 Toplam Gol,0-1 gol
 Toplam Gol,2-3 gol
 Toplam Gol,4-5 gol
