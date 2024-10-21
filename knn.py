@@ -628,23 +628,130 @@ for index, score in enumerate(scores):
         bahis_sayacı[195] += 1
     if iy_home == 0 and iy_away == 1 and home == 0 and away == 2:
         bahis_sayacı[196] += 1
-    #TODO Bitir burayı
+    if iy_home == 0 and iy_away == 1 and home == 0 and away == 3:
+        bahis_sayacı[197] += 1
+    if iy_home == 0 and iy_away == 1 and home == 1 and away == 1:
+        bahis_sayacı[198] += 1
+    if iy_home == 0 and iy_away == 1 and home == 1 and away == 2:
+        bahis_sayacı[199] += 1
+    if iy_home == 0 and iy_away == 1 and home == 2 and away == 1:
+        bahis_sayacı[200] += 1
+    if iy_home == 0 and iy_away == 1 and ((home + away) > 4):
+        bahis_sayacı[201] += 1
+    if iy_home == 2 and iy_away == 0 and home == 2 and away == 0:
+        bahis_sayacı[202] += 1
+    if iy_home == 2 and iy_away == 0 and home == 2 and away == 1:
+        bahis_sayacı[203] += 1
+    if iy_home == 2 and iy_away == 0 and home == 3 and away == 0:
+        bahis_sayacı[204] += 1
+    if iy_home == 2 and iy_away == 0 and ((home + away) > 4):
+        bahis_sayacı[205] += 1
+    if iy_home == 1 and iy_away == 1 and home == 1 and away == 1:
+        bahis_sayacı[206] += 1
+    if iy_home == 1 and iy_away == 1 and home == 1 and away == 2:
+        bahis_sayacı[207] += 1
+    if iy_home == 1 and iy_away == 1 and home == 2 and away == 1:
+        bahis_sayacı[208] += 1
+    if iy_home == 1 and iy_away == 1 and ((home + away) > 4):
+        bahis_sayacı[209] += 1
+    if iy_home == 0 and iy_away == 2 and home == 0 and away == 2:
+        bahis_sayacı[210] += 1
+    if iy_home == 0 and iy_away == 2 and home == 0 and away == 3:
+        bahis_sayacı[211] += 1
+    if iy_home == 0 and iy_away == 2 and home == 1 and away == 2:
+        bahis_sayacı[212] += 1
+    if iy_home == 0 and iy_away == 2 and ((home + away) > 4):
+        bahis_sayacı[213] += 1
+    if iy_home == 3 and iy_away == 0 and home == 3 and away == 0:
+        bahis_sayacı[214] += 1
+    if iy_home == 3 and iy_away == 0 and ((home + away) > 4):
+        bahis_sayacı[215] += 1
+    if iy_home == 2 and iy_away == 1 and home == 2 and away == 1:
+        bahis_sayacı[216] += 1
+    if iy_home == 2 and iy_away == 1 and ((home + away) > 4):
+        bahis_sayacı[217] += 1
+    if iy_home == 1 and iy_away == 2 and home == 1 and away == 2:
+        bahis_sayacı[218] += 1
+    if iy_home == 1 and iy_away == 2 and ((home + away) > 4):
+        bahis_sayacı[219] += 1
+    if iy_home == 0 and iy_away == 3 and home == 0 and away == 3:
+        bahis_sayacı[220] += 1
+    if iy_home == 0 and iy_away == 3 and ((home + away) > 4):
+        bahis_sayacı[221] += 1
+    if ((iy_home + iy_away) > 4) and ((home + away) > 4):
+        bahis_sayacı[222] += 1
 
+    # İlk Yarı Tek/Çift
+    iy_toplam_gol = iy_home + iy_away
+    if iy_toplam_gol % 2 != 0:
+        bahis_sayacı[223] += 1 # İY Tek
+    else:
+        bahis_sayacı[224] += 1 # İY Çift
 
-    if away + home > 2.5:
-        over_2_5 += 1
-    if away + home < 2.5:
-        under_2_5 += 1
-    if away + home < 3.5:
-        under_3_5 += 1
-    if away + home == 2 or away + home == 3:
-        goal_2_3 += 1
+    # İlk Yarı Karşılıklı Gol
+    if iy_home != 0 and iy_away != 0:
+        bahis_sayacı[225] += 1
+    else:
+        bahis_sayacı[226] += 1
 
-    if iy_home < iy_away and home < away:
-        tahmin += 1
-    if iy_home + iy_away < 1.5:
-        oburu += 1
+    # Ev Sahibi İlk Yarı Altı/Üstü
+    if iy_home > 0.5:
+        bahis_sayacı[227] += 1
+    else:
+        bahis_sayacı[228] += 1
+    
+    # Deplasman İlk Yarı Altı/Üstü
+    if iy_away > 0.5:
+        bahis_sayacı[229] += 1
+    else:
+        bahis_sayacı[230] += 1
 
+    # İlk Yarı Sonucu ve İlk Yarı Altı/Üstü
+    if iy_home > iy_away and (iy_home + iy_away) < 2:
+        bahis_sayacı[231] += 1  # 1 ve Alt 1.5
+    elif iy_home == iy_away and (iy_home + iy_away) < 2:
+        bahis_sayacı[232] += 1  # 0 ve Alt 1.5
+    elif iy_home < iy_away and (iy_home + iy_away) < 2:
+        bahis_sayacı[233] += 1  # 2 ve Alt 1.5
+    elif iy_home > iy_away and (iy_home + iy_away) >= 2:
+        bahis_sayacı[234] += 1  # 1 ve Üst 1.5
+    elif iy_home == iy_away and (iy_home + iy_away) >= 2:
+        bahis_sayacı[235] += 1  # 0 ve Üst 1.5
+    elif iy_home < iy_away and (iy_home + iy_away) >= 2:
+        bahis_sayacı[236] += 1  # 2 ve Üst 1.5
+
+    if iy_home > iy_away or home_second_half > away_second_half:
+        bahis_sayacı[237] += 1  # Ev Sahibi Yarı Kazanır, Evet
+    else:
+        bahis_sayacı[238] += 1  # Ev Sahibi Yarı Kazanır, Hayır
+
+    if iy_away > iy_home or away_second_half > home_second_half:
+        bahis_sayacı[239] += 1  # Deplasman Yarı Kazanır, Evet
+    else:
+        bahis_sayacı[240] += 1  # Deplasman Yarı Kazanır, Hayır
+
+    # İlk yarı ve maç sonu golleri 1.5 alt kontrolü
+    if (iy_home + iy_away < 1.5) and (home_second_half + away_second_half < 1.5):
+        bahis_sayacı[241] += 1  # İki Yarı da Alt 1.5, Evet
+    else:
+        bahis_sayacı[242] += 1  # İki Yarı da Alt 1.5, Hayır
+
+    # İlk yarı ve maç sonu golleri 1.5 üst kontrolü
+    if (iy_home + iy_away > 1.5) and (home_second_half + away_second_half > 1.5):
+        bahis_sayacı[243] += 1  # İki Yarı da Üst 1.5, Evet
+    else:
+        bahis_sayacı[244] += 1  # İki Yarı da Üst 1.5, Hayır
+
+    # İkinci Yarı Karşılıklı Gol var
+    if (home_second_half != 0 and away_second_half != 0):
+        bahis_sayacı[245] += 1
+    else:
+        bahis_sayacı[246] += 1
+
+current_df = bahis_tipleri.copy()
+current_df["Olasılıklar"] = bahis_sayacı
+current_df.to_csv("current.csv")
+exit()
 
 print("Home", home_win/len(scores))
 print("Draw", draw/len(scores))
