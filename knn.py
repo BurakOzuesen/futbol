@@ -164,9 +164,9 @@ for index, score in enumerate(scores):
     elif total_goals > 4.5:
         bahis_sayacı[12] += 1
     
-    if total_goals > 5.5:
+    if total_goals < 5.5:
         bahis_sayacı[13] += 1
-    elif total_goals < 5.5:
+    elif total_goals > 5.5:
         bahis_sayacı[14] += 1
 
     # İY/MS Tahminleri
@@ -520,7 +520,7 @@ for index, score in enumerate(scores):
         bahis_sayacı[148] += 1
     elif score == "0 - 6":
         bahis_sayacı[149] += 1
-    elif score == "Diğer":
+    else:
         bahis_sayacı[150] += 1
 
     # Maç Sonucu ve Karşılıklı Gol
@@ -608,7 +608,7 @@ for index, score in enumerate(scores):
         bahis_sayacı[185] += 1
     if iy_home == 0 and iy_away == 0 and home == 3 and away == 0:
         bahis_sayacı[186] += 1
-    if iy_home == 0 and iy_away == 0 and ((home + away) > 4):
+    if iy_home == 0 and iy_away == 0 and ((home + away) >= 4):
         bahis_sayacı[187] += 1
     if iy_home == 1 and iy_away == 0 and home == 1 and away == 0:
         bahis_sayacı[188] += 1
@@ -622,7 +622,7 @@ for index, score in enumerate(scores):
         bahis_sayacı[192] += 1
     if iy_home == 1 and iy_away == 0 and home == 3 and away == 0:
         bahis_sayacı[193] += 1
-    if iy_home == 1 and iy_away == 0 and ((home + away) > 4):
+    if iy_home == 1 and iy_away == 0 and ((home + away) >= 4):
         bahis_sayacı[194] += 1
     if iy_home == 0 and iy_away == 1 and home == 0 and away == 1:
         bahis_sayacı[195] += 1
@@ -636,7 +636,7 @@ for index, score in enumerate(scores):
         bahis_sayacı[199] += 1
     if iy_home == 0 and iy_away == 1 and home == 2 and away == 1:
         bahis_sayacı[200] += 1
-    if iy_home == 0 and iy_away == 1 and ((home + away) > 4):
+    if iy_home == 0 and iy_away == 1 and ((home + away) >= 4):
         bahis_sayacı[201] += 1
     if iy_home == 2 and iy_away == 0 and home == 2 and away == 0:
         bahis_sayacı[202] += 1
@@ -644,7 +644,7 @@ for index, score in enumerate(scores):
         bahis_sayacı[203] += 1
     if iy_home == 2 and iy_away == 0 and home == 3 and away == 0:
         bahis_sayacı[204] += 1
-    if iy_home == 2 and iy_away == 0 and ((home + away) > 4):
+    if iy_home == 2 and iy_away == 0 and ((home + away) >= 4):
         bahis_sayacı[205] += 1
     if iy_home == 1 and iy_away == 1 and home == 1 and away == 1:
         bahis_sayacı[206] += 1
@@ -652,7 +652,7 @@ for index, score in enumerate(scores):
         bahis_sayacı[207] += 1
     if iy_home == 1 and iy_away == 1 and home == 2 and away == 1:
         bahis_sayacı[208] += 1
-    if iy_home == 1 and iy_away == 1 and ((home + away) > 4):
+    if iy_home == 1 and iy_away == 1 and ((home + away) >= 4):
         bahis_sayacı[209] += 1
     if iy_home == 0 and iy_away == 2 and home == 0 and away == 2:
         bahis_sayacı[210] += 1
@@ -660,25 +660,25 @@ for index, score in enumerate(scores):
         bahis_sayacı[211] += 1
     if iy_home == 0 and iy_away == 2 and home == 1 and away == 2:
         bahis_sayacı[212] += 1
-    if iy_home == 0 and iy_away == 2 and ((home + away) > 4):
+    if iy_home == 0 and iy_away == 2 and ((home + away) >= 4):
         bahis_sayacı[213] += 1
     if iy_home == 3 and iy_away == 0 and home == 3 and away == 0:
         bahis_sayacı[214] += 1
-    if iy_home == 3 and iy_away == 0 and ((home + away) > 4):
+    if iy_home == 3 and iy_away == 0 and ((home + away) >= 4):
         bahis_sayacı[215] += 1
     if iy_home == 2 and iy_away == 1 and home == 2 and away == 1:
         bahis_sayacı[216] += 1
-    if iy_home == 2 and iy_away == 1 and ((home + away) > 4):
+    if iy_home == 2 and iy_away == 1 and ((home + away) >= 4):
         bahis_sayacı[217] += 1
     if iy_home == 1 and iy_away == 2 and home == 1 and away == 2:
         bahis_sayacı[218] += 1
-    if iy_home == 1 and iy_away == 2 and ((home + away) > 4):
+    if iy_home == 1 and iy_away == 2 and ((home + away) >= 4):
         bahis_sayacı[219] += 1
     if iy_home == 0 and iy_away == 3 and home == 0 and away == 3:
         bahis_sayacı[220] += 1
-    if iy_home == 0 and iy_away == 3 and ((home + away) > 4):
+    if iy_home == 0 and iy_away == 3 and ((home + away) >= 4):
         bahis_sayacı[221] += 1
-    if ((iy_home + iy_away) > 4) and ((home + away) > 4):
+    if ((iy_home + iy_away) >= 4) and ((home + away) >= 4):
         bahis_sayacı[222] += 1
 
     # İlk Yarı Tek/Çift
@@ -695,13 +695,13 @@ for index, score in enumerate(scores):
         bahis_sayacı[226] += 1
 
     # Ev Sahibi İlk Yarı Altı/Üstü
-    if iy_home > 0.5:
+    if iy_home < 0.5:
         bahis_sayacı[227] += 1
     else:
         bahis_sayacı[228] += 1
     
     # Deplasman İlk Yarı Altı/Üstü
-    if iy_away > 0.5:
+    if iy_away < 0.5:
         bahis_sayacı[229] += 1
     else:
         bahis_sayacı[230] += 1
