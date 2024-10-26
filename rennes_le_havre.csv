@@ -1,0 +1,248 @@
+,Bahis Tipi,Tercih,Olasılıklar
+0,Maç Sonucu,MS1,65
+1,Maç Sonucu,MS0,25
+2,Maç Sonucu,MS2,10
+3,Toplam Gol Alt / Üst,0.5 ALT,8
+4,Toplam Gol Alt / Üst,0.5 ÜST,92
+5,Toplam Gol Alt / Üst,1.5 ALT,25
+6,Toplam Gol Alt / Üst,1.5 ÜST,75
+7,Toplam Gol Alt / Üst,2.5 ALT,52
+8,Toplam Gol Alt / Üst,2.5 ÜST,48
+9,Toplam Gol Alt / Üst,3.5 ALT,74
+10,Toplam Gol Alt / Üst,3.5 ÜST,26
+11,Toplam Gol Alt / Üst,4.5 ALT,91
+12,Toplam Gol Alt / Üst,4.5 ÜST,9
+13,Toplam Gol Alt / Üst,5.5 ALT,97
+14,Toplam Gol Alt / Üst,5.5 ÜST,3
+15,İlk Yarı / Maç Sonucu,1 / 1,45
+16,İlk Yarı / Maç Sonucu,1 / 0,7
+17,İlk Yarı / Maç Sonucu,1 / 2,1
+18,İlk Yarı / Maç Sonucu,0 / 1,13
+19,İlk Yarı / Maç Sonucu,0 / 0,16
+20,İlk Yarı / Maç Sonucu,0 / 2,3
+21,İlk Yarı / Maç Sonucu,2 / 1,7
+22,İlk Yarı / Maç Sonucu,2 / 0,2
+23,İlk Yarı / Maç Sonucu,2 / 2,6
+24,Karşılıklı Gol,VAR,45
+25,Karşılıklı Gol,YOK,55
+26,İlk Yarı Alt / Üst,0.5 ALT,25
+27,İlk Yarı Alt / Üst,0.5 ÜST,75
+28,İlk Yarı Alt / Üst,1.5 ALT,72
+29,İlk Yarı Alt / Üst,1.5 ÜST,28
+30,İlk Yarı Alt / Üst,2.5 ALT,92
+31,İlk Yarı Alt / Üst,2.5 ÜST,8
+32,İlk Yarı Sonucu,1,53
+33,İlk Yarı Sonucu,0,32
+34,İlk Yarı Sonucu,2,15
+35,Maç Sonucu ve Alt / Üst 1.5,1 ve 1.5 Alt,12
+36,Maç Sonucu ve Alt / Üst 1.5,0 ve 1.5 Alt,8
+37,Maç Sonucu ve Alt / Üst 1.5,2 ve 1.5 Alt,5
+38,Maç Sonucu ve Alt / Üst 1.5,1 ve 1.5 Üst,53
+39,Maç Sonucu ve Alt / Üst 1.5,0 ve 1.5 Üst,17
+40,Maç Sonucu ve Alt / Üst 1.5,2 ve 1.5 Üst,5
+41,Maç Sonucu ve Alt / Üst 2.5,1 ve 2.5 Alt,27
+42,Maç Sonucu ve Alt / Üst 2.5,0 ve 2.5 Alt,19
+43,Maç Sonucu ve Alt / Üst 2.5,2 ve 2.5 Alt,6
+44,Maç Sonucu ve Alt / Üst 2.5,1 ve 2.5 Üst,38
+45,Maç Sonucu ve Alt / Üst 2.5,0 ve 2.5 Üst,6
+46,Maç Sonucu ve Alt / Üst 2.5,2 ve 1.5 Üst,4
+47,Maç Sonucu ve Alt / Üst 3.5,1 ve 3.5 Alt,45
+48,Maç Sonucu ve Alt / Üst 3.5,0 ve 3.5 Alt,19
+49,Maç Sonucu ve Alt / Üst 3.5,2 ve 3.5 Alt,10
+50,Maç Sonucu ve Alt / Üst 3.5,1 ve 3.5 Üst,20
+51,Maç Sonucu ve Alt / Üst 3.5,0 ve 3.5 Üst,6
+52,Maç Sonucu ve Alt / Üst 3.5,2 ve 3.5 Üst,0
+53,Maç Sonucu ve Alt / Üst 4.5,1 ve 4.5 Alt,57
+54,Maç Sonucu ve Alt / Üst 4.5,0 ve 4.5 Alt,24
+55,Maç Sonucu ve Alt / Üst 4.5,2 ve 4.5 Alt,10
+56,Maç Sonucu ve Alt / Üst 4.5,1 ve 4.5 Üst,8
+57,Maç Sonucu ve Alt / Üst 4.5,0 ve 4.5 Üst,1
+58,Maç Sonucu ve Alt / Üst 4.5,2 ve 4.5 Üst,0
+59,Çifte Şans,1 ve 0,90
+60,Çifte Şans,1 ve 2,75
+61,Çifte Şans,0 ve 2,35
+62,Ev Sahibi Alt / Üst,0.5 Alt,16
+63,Ev Sahibi Alt / Üst,0.5 Üst,84
+64,Ev Sahibi Alt / Üst,1.5 Alt,41
+65,Ev Sahibi Alt / Üst,1.5 Üst,59
+66,Ev Sahibi Alt / Üst,2.5 Alt,76
+67,Ev Sahibi Alt / Üst,2.5 Üst,24
+68,Deplasman Alt / Üst,0.5 Alt,47
+69,Deplasman Alt / Üst,0.5 Üst,53
+70,Deplasman Alt / Üst,1.5 Alt,88
+71,Deplasman Alt / Üst,1.5 Üst,12
+72,Deplasman Alt / Üst,2.5 Alt,97
+73,Deplasman Alt / Üst,2.5 Üst,3
+74,Handikaplı Maç Sonucu,1 (0:1),37
+75,Handikaplı Maç Sonucu,0 (0:1),28
+76,Handikaplı Maç Sonucu,2 (0:1),35
+77,Handikaplı Maç Sonucu,1 (1:0),90
+78,Handikaplı Maç Sonucu,0 (1:0),7
+79,Handikaplı Maç Sonucu,2 (1:0),3
+80,Handikaplı Maç Sonucu,1 (2:0),97
+81,Handikaplı Maç Sonucu,0 (2:0),1
+82,Handikaplı Maç Sonucu,2 (2:0),2
+83,Handikaplı Maç Sonucu,1 (0:2),15
+84,Handikaplı Maç Sonucu,0 (0:2),22
+85,Handikaplı Maç Sonucu,2 (0:2),63
+86,Toplam Gol,0-1 gol,25
+87,Toplam Gol,2-3 gol,49
+88,Toplam Gol,4-5 gol,23
+89,Toplam Gol,6+ gol,3
+90,Hangi Yarıda Daha Çok Gol Olur,1,26
+91,Hangi Yarıda Daha Çok Gol Olur,Eşit,32
+92,Hangi Yarıda Daha Çok Gol Olur,2,42
+93,Ev Sahibi Takım Hangi Yarıda Daha Çok Gol Atar,1,29
+94,Ev Sahibi Takım Hangi Yarıda Daha Çok Gol Atar,Eşit,35
+95,Ev Sahibi Takım Hangi Yarıda Daha Çok Gol Atar,2,36
+96,Deplasman Takım Hangi Yarıda Daha Çok Gol Atar,1,22
+97,Deplasman Takım Hangi Yarıda Daha Çok Gol Atar,Eşit,50
+98,Deplasman Takım Hangi Yarıda Daha Çok Gol Atar,2,28
+99,Ev Sahibi Takım Gol Yemeden Kazanır mı?,Evet,39
+100,Ev Sahibi Takım Gol Yemeden Kazanır mı?,Hayır,61
+101,Deplasman Takım Gol Yemeden Kazanır mı?,Evet,8
+102,Deplasman Takım Gol Yemeden Kazanır mı?,Hayır,92
+103,Ev Sahibi Takım Her İki Yarıyı da Kazanır mı,Evet,25
+104,Ev Sahibi Takım Her İki Yarıyı da Kazanır mı,Hayır,75
+105,Deplasman Takımı Her İki Yarıyı da Kazanır mı,Evet,3
+106,Deplasman Takımı Her İki Yarıyı da Kazanır mı,Hayır,97
+107,İlk Yarı Çifte Şans,1 ve 0,85
+108,İlk Yarı Çifte Şans,1 ve 2,68
+109,İlk Yarı Çifte Şans,0 ve 2,47
+110,Hangi Takım Kaç Farkla Kazanır,Ev 3+,15
+111,Hangi Takım Kaç Farkla Kazanır,Ev 2,22
+112,Hangi Takım Kaç Farkla Kazanır,Ev 1,28
+113,Hangi Takım Kaç Farkla Kazanır,Dep 1,7
+114,Hangi Takım Kaç Farkla Kazanır,Dep 2,1
+115,Hangi Takım Kaç Farkla Kazanır,Dep 3+,2
+116,Hangi Takım Kaç Farkla Kazanır,0,25
+117,İkinci Yarı Sonucu,1,47
+118,İkinci Yarı Sonucu,0,37
+119,İkinci Yarı Sonucu,2,16
+120,Tek / Çift,Tek,45
+121,Tek / Çift,Çift,55
+122,Maç Skoru,1 – 0,12
+123,Maç Skoru,2 – 0,15
+124,Maç Skoru,2 – 1,15
+125,Maç Skoru,3 – 0,3
+126,Maç Skoru,3 – 1,7
+127,Maç Skoru,3 – 2,1
+128,Maç Skoru,4 – 0,5
+129,Maç Skoru,4 – 1,2
+130,Maç Skoru,4 – 2,0
+131,Maç Skoru,5 – 0,3
+132,Maç Skoru,5 – 1,1
+133,Maç Skoru,6 – 0,0
+134,Maç Skoru,0 – 0,8
+135,Maç Skoru,1 – 1,11
+136,Maç Skoru,2 – 2,5
+137,Maç Skoru,3 – 3,1
+138,Maç Skoru,0 – 1,5
+139,Maç Skoru,0 – 2,1
+140,Maç Skoru,1 – 2,2
+141,Maç Skoru,0 – 3,2
+142,Maç Skoru,1 – 3,0
+143,Maç Skoru,2 – 3,0
+144,Maç Skoru,0 – 4,0
+145,Maç Skoru,1 – 4,0
+146,Maç Skoru,2 – 4,0
+147,Maç Skoru,0 – 5,0
+148,Maç Skoru,1 – 5,0
+149,Maç Skoru,0 – 6,0
+150,Maç Skoru,Diğer,1
+151,Maç Sonucu ve Karşılıklı Gol,1 ve Var,26
+152,Maç Sonucu ve Karşılıklı Gol,1 ve Yok,39
+153,Maç Sonucu ve Karşılıklı Gol,0 ve Var,17
+154,Maç Sonucu ve Karşılıklı Gol,0 ve Yok,8
+155,Maç Sonucu ve Karşılıklı Gol,2 ve Var,2
+156,Maç Sonucu ve Karşılıklı Gol,2 ve Yok,8
+157,İlk Yarı Sonucu ve İlk Yarı Karşılıklı Gol,1 ve Var,4
+158,İlk Yarı Sonucu ve İlk Yarı Karşılıklı Gol,1 ve Yok,49
+159,İlk Yarı Sonucu ve İlk Yarı Karşılıklı Gol,0 ve Var,7
+160,İlk Yarı Sonucu ve İlk Yarı Karşılıklı Gol,0 ve Yok,25
+161,İlk Yarı Sonucu ve İlk Yarı Karşılıklı Gol,2 ve Var,1
+162,İlk Yarı Sonucu ve İlk Yarı Karşılıklı Gol,2 ve Yok,14
+163,Altı/Üstü ve Karşılıklı Gol,Alt ve Var 2.5,11
+164,Altı/Üstü ve Karşılıklı Gol,Üst ve Var 2.5,34
+165,Altı/Üstü ve Karşılıklı Gol,Alt ve Yok 2.5,41
+166,Altı/Üstü ve Karşılıklı Gol,Üst ve Yok 2.5,14
+167,İlk Yarı Skoru,0 – 0,25
+168,İlk Yarı Skoru,1 – 1,6
+169,İlk Yarı Skoru,2 – 2,1
+170,İlk Yarı Skoru,1 – 0,34
+171,İlk Yarı Skoru,2 – 0,13
+172,İlk Yarı Skoru,2 – 1,4
+173,İlk Yarı Skoru,0 – 1,13
+174,İlk Yarı Skoru,0 – 2,1
+175,İlk Yarı Skoru,1 – 2,1
+176,İlk Yarı Skoru,Diğer,2
+177,İY/MS Skorları,0 – 0 / 0 – 0,8
+178,İY/MS Skorları,0 – 0 / 0 – 1,3
+179,İY/MS Skorları,0 – 0 / 0 – 2,0
+180,İY/MS Skorları,0 – 0 / 0 – 3,0
+181,İY/MS Skorları,0 – 0 / 1 – 0,4
+182,İY/MS Skorları,0 – 0 / 1 – 1,4
+183,İY/MS Skorları,0 – 0 / 1 – 2,0
+184,İY/MS Skorları,0 – 0 / 2 – 0,2
+185,İY/MS Skorları,0 – 0 / 2 – 1,1
+186,İY/MS Skorları,0 – 0 / 3 – 0,1
+187,İY/MS Skorları,0 – 0 / 4+,2
+188,İY/MS Skorları,1 – 0 / 1 – 0,8
+189,İY/MS Skorları,1 – 0 / 1 – 1,4
+190,İY/MS Skorları,1 – 0 / 1 – 2,1
+191,İY/MS Skorları,1 – 0 / 2 – 0,10
+192,İY/MS Skorları,1 – 0 / 2 – 1,2
+193,İY/MS Skorları,1 – 0 / 3 – 0,2
+194,İY/MS Skorları,1 – 0 / 4+,7
+195,İY/MS Skorları,0 – 1 / 0 – 1,2
+196,İY/MS Skorları,0 – 1 / 0 – 2,1
+197,İY/MS Skorları,0 – 1 / 0 – 3,1
+198,İY/MS Skorları,0 – 1 / 1 – 1,2
+199,İY/MS Skorları,0 – 1 / 1 – 2,0
+200,İY/MS Skorları,0 – 1 / 2 – 1,6
+201,İY/MS Skorları,0 – 1 / 4+,1
+202,İY/MS Skorları,2 – 0 / 2 – 0,3
+203,İY/MS Skorları,2 – 0 / 2 – 1,2
+204,İY/MS Skorları,2 – 0 / 3 – 0,0
+205,İY/MS Skorları,2 – 0 / 4+,8
+206,İY/MS Skorları,1 – 1 / 1 – 1,1
+207,İY/MS Skorları,1 – 1 / 1 – 2,0
+208,İY/MS Skorları,1 – 1 / 2 – 1,2
+209,İY/MS Skorları,1 – 1 / 4+,3
+210,İY/MS Skorları,0 – 2 / 0 – 2,0
+211,İY/MS Skorları,0 – 2 / 0 – 3,1
+212,İY/MS Skorları,0 – 2 / 1 – 2,0
+213,İY/MS Skorları,0 – 2 / 4+,0
+214,İY/MS Skorları,3 – 0 / 3 – 0,0
+215,İY/MS Skorları,3 – 0 / 4+,2
+216,İY/MS Skorları,2 – 1 / 2 – 1,2
+217,İY/MS Skorları,2 – 1 / 4+,2
+218,İY/MS Skorları,1 – 2 / 1 – 2,1
+219,İY/MS Skorları,1 – 2 / 4+,0
+220,İY/MS Skorları,0 – 3 / 0 – 3,0
+221,İY/MS Skorları,0 – 3 / 4+,0
+222,İY/MS Skorları,4+ / 4+,1
+223,İlk Yarı Tek/Çift,Tek,54
+224,İlk Yarı Tek/Çift,Çift,46
+225,İlk Yarı Karşılıklı Gol Var,Var,12
+226,İlk Yarı Karşılıklı Gol Var,Yok,88
+227,Ev Sahibi İlk Yarı Altı/Üstü,Alt 0.5,39
+228,Ev Sahibi İlk Yarı Altı/Üstü,Üst 0.5,61
+229,Deplasman İlk Yarı Altı/Üstü,Alt 0.5,74
+230,Deplasman İlk Yarı Altı/Üstü,Üst 0.5,26
+231,İlk Yarı Sonucu ve İlk Yarı Altı/Üstü,1 ve Alt 1.5,34
+232,İlk Yarı Sonucu ve İlk Yarı Altı/Üstü,0 ve Alt 1.5,25
+233,İlk Yarı Sonucu ve İlk Yarı Altı/Üstü,2 ve Alt 1.5,13
+234,İlk Yarı Sonucu ve İlk Yarı Altı/Üstü,1 ve Üst 1.5,19
+235,İlk Yarı Sonucu ve İlk Yarı Altı/Üstü,0 ve Üst 1.5,7
+236,İlk Yarı Sonucu ve İlk Yarı Altı/Üstü,2 ve Üst 1.5,2
+237,Ev Sahibi Yarı Kazanır,Evet,75
+238,Ev Sahibi Yarı Kazanır,Hayır,25
+239,Deplasman Yarı Kazanır,Evet,28
+240,Deplasman Yarı Kazanır,Hayır,72
+241,İki Yarı da Alt 1.5,Evet,42
+242,İki Yarı da Alt 1.5,Hayır,58
+243,İki Yarı da Üst 1.5,Evet,13
+244,İki Yarı da Üst 1.5,Hayır,87
+245,İkinci Yarı Karşılıklı Gol,Evet,17
+246,İkinci Yarı Karşılıklı Gol,Hayır,83

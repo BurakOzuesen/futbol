@@ -112,6 +112,7 @@ oburu = 0
 
 bahis_tipleri = pd.read_csv("bahis_tipleri.csv")
 bahis_sayacı = [0 for i in range(bahis_tipleri.shape[0])]
+counter = 0
 
 for index, score in enumerate(scores):
     try:
@@ -128,6 +129,16 @@ for index, score in enumerate(scores):
         away_second_half = away - iy_away
     except Exception as e:
         continue
+
+    # # (2:0) Handikap
+    # if (home + 3) > away:
+    #     bahis_sayacı[80] += 1  # Handikaplı 1 (2:0)
+    # if (home + 3) == away:
+    #     bahis_sayacı[81] += 1  # Handikaplı 0 (2:0)
+    # if (home + 3) < away:
+    #     bahis_sayacı[82] += 1  # Handikaplı 2 (2:0)
+    #     counter += 1
+    #     print("üst sayısı", counter)
 
     # Maç Sonucu Bahisleri
     if home > away:
@@ -750,7 +761,7 @@ for index, score in enumerate(scores):
 
 current_df = bahis_tipleri.copy()
 current_df["Olasılıklar"] = bahis_sayacı
-current_df.to_csv("current.csv")
+current_df.to_csv("angers_st_etienne.csv")
 exit()
 
 print("Home", home_win/len(scores))
