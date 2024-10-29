@@ -139,6 +139,9 @@ for index, score in enumerate(scores):
     #     bahis_sayacı[82] += 1  # Handikaplı 2 (2:0)
     #     counter += 1
     #     print("üst sayısı", counter)
+    if home < 3.5:
+        counter += 1
+    print(counter)
 
     # Maç Sonucu Bahisleri
     if home > away:
@@ -761,7 +764,7 @@ for index, score in enumerate(scores):
 
 current_df = bahis_tipleri.copy()
 current_df["Olasılıklar"] = bahis_sayacı
-current_df.to_csv("angers_st_etienne.csv")
+current_df.to_csv("southampton_stoke.csv")
 exit()
 
 print("Home", home_win/len(scores))
@@ -828,7 +831,7 @@ for index, test_maci in tqdm(test.iterrows()):
             # print(test.iloc[0])
             # print(index, row)
     
-    my_preds = train.sort_values("Fark").head(100)
+    my_preds = train.sort_values("Fark").head(102)
     scores = my_preds["MS"].values
     # print(my_preds)
 
